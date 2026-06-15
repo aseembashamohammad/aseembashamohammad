@@ -16,11 +16,6 @@
 
 🎓 B.Tech Computer Science and Engineering Student at **Sri Vasavi Engineering College**
 
-💻 Passionate about:
-- Java Development
-- Full Stack Development
-- Artificial Intelligence
-- Software Engineering
 
 🤖 Currently developing **UNIQUE AI**, a voice-controlled assistant capable of automating everyday tasks.
 
