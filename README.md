@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Aseem Basha</h1>
 
-<h3 align="center">Java Full Stack Developer | AI Enthusiast | Computer Science Student</h3>
+<h3 align="center"> Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+Enthusiast;Building+Innovative+Software+Solutions;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Building+Innovative+Software+Solutions;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
