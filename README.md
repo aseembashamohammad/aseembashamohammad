@@ -3,25 +3,33 @@
 <h3 align="center">Java Full Stack Developer | AI Enthusiast | Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AI+Enthusiast;Building+Innovative+Software+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+Enthusiast;Building+Innovative+Software+Solutions;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech Computer Science and Engineering Student at **Sri Vasavi Engineering College**
 
-💻 Passionate about **Java, Full Stack Development, Artificial Intelligence, and Software Engineering**
+💻 Passionate about:
+- Java Development
+- Full Stack Development
+- Artificial Intelligence
+- Software Engineering
 
 🤖 Currently developing **UNIQUE AI**, a voice-controlled assistant capable of automating everyday tasks.
 
-🌱 Currently learning:
+🌱 Currently Learning:
 - Spring Boot
 - Java Full Stack Development
 - Data Structures & Algorithms
 
-🎯 Career Goal:
+🎯 Looking for opportunities as:
 - Java Developer
 - Full Stack Developer
 - Software Engineer
@@ -31,11 +39,11 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="mailto:aseembasha9@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aseembasha/">
@@ -49,11 +57,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
@@ -72,57 +80,52 @@
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 UNIQUE AI – Personal Voice Assistant
+## 🤖 UNIQUE AI – Personal Voice Assistant
 
-A voice-controlled AI assistant capable of understanding and executing user commands through speech recognition.
+- Voice-controlled AI assistant using speech recognition.
+- Automation features including web browsing, application control, screenshots, and file management.
 
 **Tech Stack:** Python, Tkinter, SpeechRecognition, Pyttsx3, PyAutoGUI, OpenCV
 
-🔗 Repository:
-https://github.com/aseembashamohammad
-
 ---
 
-### 🎓 SkillSwap Campus Pro
+## 🎓 SkillSwap Campus Pro
 
-Java-based mentor matching application that connects students with mentors based on skills and interests.
-
-**Features:**
+- Java-based mentor matching application.
 - CRUD Operations
-- Mentor Search
 - File Handling
 - OOP Concepts
+
+**Tech Stack:** Java, ArrayList, Collections Framework
 
 🔗 Repository:
 https://github.com/aseembashamohammad/Skillswap_Campus_pro
 
 ---
 
-### 🛒 TechBazaar E-Commerce Website
+## 🛒 TechBazaar E-Commerce Website
 
-Responsive e-commerce website built using HTML, CSS, and JavaScript.
+- Responsive e-commerce website.
+- Product showcase and modern UI.
 
-**Features:**
-- Product Showcase
-- Responsive Design
-- Modern UI
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
-## 🏆 Certifications & Achievements
+# 🏆 Achievements & Certifications
 
 🏅 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
@@ -134,23 +137,20 @@ Responsive e-commerce website built using HTML, CSS, and JavaScript.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aseembashamohammad&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aseembashamohammad&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseembashamohammad&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aseembashamohammad&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseembashamohammad&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aseembashamohammad&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🤝 Open to Collaborate On
+# 🤝 Open To Collaborate
 
 ✅ Open Source Projects
 
@@ -163,5 +163,7 @@ Responsive e-commerce website built using HTML, CSS, and JavaScript.
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+<img src="https://komarev.com/ghpvc/?username=aseembashamohammad&label=Profile%20Views&color=7aa2f7&style=for-the-badge" />
 </p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
