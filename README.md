@@ -1,13 +1,14 @@
+```markdown
 <h1 align="center">Hi 👋, I'm MD. Aseem Basha</h1>
 
-<h3 align="center">Java Full Stack Developer | AI Enthusiast | Computer Science Student</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+Enthusiast;Building+Innovative+Software+Solutions;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Enthusiast;Building+Innovative+Software+Solutions;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=MD.%20ASEEM%20BASHA&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 </p>
 
 ---
@@ -17,24 +18,25 @@
 🎓 B.Tech Computer Science and Engineering Student at **Sri Vasavi Engineering College**
 
 💻 Passionate about:
-- Java Development
 - Full Stack Development
 - Artificial Intelligence
 - Software Engineering
+- Problem Solving
 
 🤖 Currently developing **UNIQUE AI**, a voice-controlled assistant capable of automating everyday tasks.
 
 🌱 Currently Learning:
 - Spring Boot
-- Java Full Stack Development
+- Full Stack Development
 - Data Structures & Algorithms
 
 🎯 Looking for opportunities as:
-- Java Developer
 - Full Stack Developer
 - Software Engineer
+- Web Developer
 
 ⚡ Fun Fact:
+
 > I enjoy building AI-powered applications and transforming innovative ideas into real-world software solutions.
 
 ---
@@ -59,30 +61,30 @@
 
 # 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Frontend
+### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+### ⚙️ Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -95,19 +97,26 @@
 
 ## 🤖 UNIQUE AI – Personal Voice Assistant
 
-- Voice-controlled AI assistant using speech recognition.
-- Automation features including web browsing, application control, screenshots, and file management.
+✔ Voice-controlled AI assistant using speech recognition
+
+✔ Automates web browsing, screenshots, application control, and file management
 
 **Tech Stack:** Python, Tkinter, SpeechRecognition, Pyttsx3, PyAutoGUI, OpenCV
+
+🔗 Repository:
+https://github.com/aseembashamohammad
 
 ---
 
 ## 🎓 SkillSwap Campus Pro
 
-- Java-based mentor matching application.
-- CRUD Operations
-- File Handling
-- OOP Concepts
+✔ Java-based mentor matching application
+
+✔ CRUD Operations
+
+✔ File Handling
+
+✔ OOP Concepts
 
 **Tech Stack:** Java, ArrayList, Collections Framework
 
@@ -118,8 +127,11 @@ https://github.com/aseembashamohammad/Skillswap_Campus_pro
 
 ## 🛒 TechBazaar E-Commerce Website
 
-- Responsive e-commerce website.
-- Product showcase and modern UI.
+✔ Responsive E-Commerce Platform
+
+✔ Modern User Interface
+
+✔ Product Showcase System
 
 **Tech Stack:** HTML, CSS, JavaScript
 
@@ -127,13 +139,21 @@ https://github.com/aseembashamohammad/Skillswap_Campus_pro
 
 # 🏆 Achievements & Certifications
 
+🥈 Secured 2nd Position in a College Startup Competition
+
 🏅 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
 🏅 NPTEL Elite Certification – Introduction to Internet of Things (IIT Kharagpur)
 
 🏅 TATA GenAI Powered Data Analytics Job Simulation (Forage)
 
-🥈 Secured 2nd Position in a College Startup Competition
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- Full Stack Development
+- Data Structures & Algorithms
 
 ---
 
@@ -167,3 +187,4 @@ https://github.com/aseembashamohammad/Skillswap_Campus_pro
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+```
